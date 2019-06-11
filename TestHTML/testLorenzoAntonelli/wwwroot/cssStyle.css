@@ -1,0 +1,95 @@
+body{
+    background: beige; 
+}
+
+script{
+    align-content: center;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+table {
+    width: 40%;
+    box-align: center;
+    vertical-align: middle;
+    /* border-collapse:collapse;
+    border:1px solid #7f7f7f; */
+    
+  }
+
+  td:after {
+    content: '';
+    display: block;
+    margin-top: 100%;
+  }
+  /* td .content {
+    
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: gold;
+    vertical-align: middle;
+    border-radius: 10px;
+    
+  } */
+  #div1 {
+      
+      /* text-align: center;
+      align-content: center; 
+      margin:10px;
+      /* font-size:1.25em; */
+      padding: 10px;
+      object-position: center; 
+  }
+
+
+.table {
+    border-collapse:collapse;
+    border:1px solid #7f7f7f;
+    border-radius: 3px;
+    float: inline-end;
+   
+}
+td {
+    
+    /* border:1px solid #7f7f7f; */
+    /* width:50px;
+    height:50px; */
+    text-align:center;
+    
+    background: white;
+    border: 3px solid gray;
+    /* padding: 1px; */
+    /* border-radius: 10px; */
+    
+ 
+  
+}
+
+tr {
+    border:1px solid #7f7f7f;
+    width:40px;
+    height:40px;
+    text-align:center;
+    background: white;
+       
+}
+
+.button {
+float: inline-start;
+}
+
+script{
+    align-content: center;
+}
+
+/* tr:hover {
+    background-color: #eee;
+} */
+td:hover{
+    background-color: #eee; 
+}
